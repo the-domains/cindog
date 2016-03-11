@@ -1,0 +1,28 @@
+name: CINDOG
+favicon: null
+layout_spectrum: 0.14373452332802117
+typography_spectrum: 0.38993612350896
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.35295434878207743
+  lightness: 0.814701008843258
+  saturation: 0.0887938323430717
+  rhythmicContrast: 0.1239507447462529
+purpose: []
